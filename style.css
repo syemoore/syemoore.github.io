@@ -21,7 +21,10 @@ body {
         float: right;
         margin: -30px 0 0 0;
         max-width: 303px;
-        height: 293px; 
+        height: 293px;
+        -webkit-transform: rotate(7deg)
+        -ms-transform: rotate(7deg)
+        transform: rotate(7); 
 }
 
 h1 { 
